@@ -1,0 +1,19 @@
+<object-stream>
+  <student>
+    <firstName>ma0</firstName>
+    <lastName>ss0</lastName>
+  </student>
+  <student>
+    <firstName>ma1</firstName>
+    <lastName>ss1</lastName>
+  </student>
+  <student>
+    <firstName>ma2</firstName>
+    <lastName>ss2</lastName>
+  </student>
+  <student>
+    <firstName>ma3</firstName>
+    <lastName>ss3</lastName>
+  </student>
+  <string>Hello World!</string>
+</object-stream>

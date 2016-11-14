@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alipay>
+  <is_success>T</is_success>
+  <request>
+    <param name="_input_charset">utf-8</param>
+    <param name="service">single_trade_query</param>
+    <param name="partner">20889010000000</param>
+    <param name="out_trade_no">7_20130223150319_26</param>
+  </request>
+  <response>
+    <trade>
+      <total_fee>0.01</total_fee>
+      <trade_no>2013022356736989</trade_no>
+      <trade_status>TRADE_SUCCESS</trade_status>
+      <use_coupon>F</use_coupon>
+    </trade>
+  </response>
+  <sign>6c472babf7bd98ascb97fee1666a3303</sign>
+  <sign_type>MD5</sign_type>
+</alipay>

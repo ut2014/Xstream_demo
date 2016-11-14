@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Suresh">
+<![CDATA[
+<?xml version=\"1.0\" encoding=\"utf-8\"?>
+<student name="Suresh">
+   <note>
+   <title>first</title>
+      <description>My first assignment.</description>
+   </note>
+   <note>
+      <title>second</title>
+      <description>My second assignment.</description>
+   </note>
+</student>
+]]></string>
+</resources>
